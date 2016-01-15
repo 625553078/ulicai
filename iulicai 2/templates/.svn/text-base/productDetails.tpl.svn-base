@@ -1,0 +1,35 @@
+<div id="productDetails-wrap">
+
+
+    		<h3 data-pid="{{productId}}">{{productName}}</h3>
+    		<div class="reco-main">
+    			<span class="topRate">{{usedRate}}54%</span>
+    			<div class="circle-out">
+    				 <div class="circle-wrap">
+    					<div class="deadline">预期年化收益</div>
+    					<div class="effects" data-effects="{{rate}}">{{rate}}<span data="加送{{extRate}}%">%</span></div>
+    					<div class="expect" data-expect="{{prodPeriod}}">理财期限</div>
+    				 </div>
+    			 </div>
+    		</div>
+
+    		<div class="desc">
+    			<ul>
+    				<li data="当日起息">计息方式</li>
+    				<li data="{{restAmount}}">剩余可投（元）</li>
+    				<li data="{{totalAmount}}">总金额（元）</li>
+    			</ul>
+
+    			<div class="moreDetails">
+    			    <span class="proInfo">项目详情</span><span class="baseInfo">基本信息</span>
+    			</div>
+    			<div class="minBuy">{{minBuyAmount}}元起购</div>
+    			{{#if(canBuy==true)}}<input id="purchaseAmount" data-minBuy={{minBuyAmount}} type=tel placeholder="输入金额"/><a href="" class="buyNow">立即购买</span>{{/if(canBuy==true)}}
+
+    			{{#if(canBuy==false)}}<span class="soldOut">已售完</span>{{/if(canBuy==false)}}
+
+    			<!--p class="safe-info">理财资金安全由阳光保险与浦发银行共同保障</p-->
+    		</div>
+
+</div>
+

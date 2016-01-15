@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates
+END
+transaction.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/transaction.tpl
+END
+bonus.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/bonus.tpl
+END
+baseInfo.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FinancingH5/!svn/ver/33/branches/ulicai/templates/baseInfo.tpl
+END
+purchase.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FinancingH5/!svn/ver/22/branches/ulicai/templates/purchase.tpl
+END
+default.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/default.tpl
+END
+help.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/help.tpl
+END
+transactionView.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/transactionView.tpl
+END
+assets.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/assets.tpl
+END
+validBonus.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/FinancingH5/!svn/ver/20/branches/ulicai/templates/validBonus.tpl
+END
+morePage.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/morePage.tpl
+END
+supermarketPage.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/supermarketPage.tpl
+END
+invalidBonus.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/invalidBonus.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/FinancingH5/!svn/ver/33/branches/ulicai/templates/login.tpl
+END
+supermarketItem.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FinancingH5/!svn/ver/21/branches/ulicai/templates/supermarketItem.tpl
+END
+findPass.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FinancingH5/!svn/ver/33/branches/ulicai/templates/findPass.tpl
+END
+defaultPage.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FinancingH5/!svn/ver/24/branches/ulicai/templates/defaultPage.tpl
+END
+assetDetails.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/assetDetails.tpl
+END
+productDetails.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/productDetails.tpl
+END
+modPass.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/FinancingH5/!svn/ver/33/branches/ulicai/templates/modPass.tpl
+END
+manageCard.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/FinancingH5/!svn/ver/23/branches/ulicai/templates/manageCard.tpl
+END
+regist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/FinancingH5/!svn/ver/33/branches/ulicai/templates/regist.tpl
+END
+searchItems.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/searchItems.tpl
+END
+proInfo.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/proInfo.tpl
+END
+addDebitCard.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FinancingH5/!svn/ver/12/branches/ulicai/templates/addDebitCard.tpl
+END

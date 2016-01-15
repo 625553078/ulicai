@@ -1,0 +1,13 @@
+<div id="proInfo-wrap">
+   <h4>{{proTilte}}</h4>
+   <ul>
+   		<li><span>募集金额(元)</span>{{totalAmount}}</li>
+   		<li><span>预期年化收益</span>{{effects}}</li>
+   		<li><span>理财期限</span>{{expect}}天</li>
+   		<li><span>起息时间</span>{{begainDay}}</li>
+   		<li><span>到期时间</span>{{endDay}}</li>
+   		<li><span class="desc" data="到期后1-2个工作日内自动还款至扣款银行卡，如遇节假日顺延，到账时间视银行而定">还款说明</span></li>
+   </ul>
+   <p>理财非存款，请谨慎投资</p>
+</div>
+

@@ -1,0 +1,12 @@
+
+
+
+<div id="bonus-wrap">
+    <ul class="bonusType">
+      <li class="cur" data-flag="valid">可使用</li>
+      <li  data-flag="invalid">已用/过期</li>
+    </ul>
+
+   <div class="bonusList">
+   </div>
+</div>

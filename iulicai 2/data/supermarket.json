@@ -1,0 +1,35 @@
+{
+	"new":{
+	  "type":"新手专享",
+	  "title":"米财新手专享N104",
+	  "income":"10.00%",
+	  "deadline":"8",
+	  "count":"7"
+	},
+	"lists":[
+			{
+			  "title": "米财90天计划C048",
+			  "income": "8.50%",
+			  "deadline": "90",
+			  "count": "88",
+			  "type": "推荐",
+			  "note": "加送1.5%",
+			  "rate":"70%"
+			},{
+				"title":"米财90天计划C048",
+				"income":"8.50%",
+				"deadline":"90",
+				"count":"88",
+				"type":"推荐",
+				"note":"加送1.5%",
+				"rate":"50%"
+			  },{
+				"title":"米财90天计划C048",
+				"income":"8.50%",
+				"deadline":"90",
+				"count":"88",
+				"type":"推荐",
+				"note":"加送1.5%",
+				"rate":"10%"
+			  }]
+}

@@ -1,0 +1,15 @@
+       {{#acctCouponList}}
+           <div class="bonus">
+                <ul>
+                    <li>红包</li>
+                    <li>
+                        <ul>
+                            <li class="bonusTitle">{{couponName}}</li>
+                            <li class="worth" data-worth="{{price}}" data-cId="{{insCouponId}}">￥{{price}}</li>
+                            <!--li>投资{{sum}}元且周期{{minDays}}天及以上使用</li-->
+                        </ul>
+                    </li>
+                </ul>
+                <p>有效期:{{effDate}}至{{expDate}}</p>
+           </div>
+          {{/acctCouponList}}

@@ -1,0 +1,22 @@
+<div id="manageCard-wrap">
+     <span class="addCard">添加银行卡</span>
+      <h4>已绑定银行卡</h4>
+     <div id="bindList">
+         {{#bindCardList}}
+          <ul class="cardList" data-p="{{paymentBankId}}" data-bt="{{bankName}}" data-tn="{{bankCardNum}}" data-pcode="{{bankCode}}">
+             <li>{{bankName}}  <span>{{cardType}}</span></li>
+             <li>尾号{{bankCardNum}}</li>
+          </ul>
+         {{/bindCardList}}
+     </div>
+
+     <h4>可支付银行卡类型</h4>
+     <div id="canPayList">
+        {{#canPayBankList}}
+         <p class="cardList" data-p="{{paymentBankId}}" data-bt="{{bankName}}" data-tn="{{bankCardNum}}" data-pcode="{{bankCode}}">
+            {{bankName}}
+         </p>
+        {{/canPayBankList}}
+    </div>
+
+</div>

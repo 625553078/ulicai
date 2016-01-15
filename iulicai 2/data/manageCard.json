@@ -1,0 +1,19 @@
+{
+  "cardList":[{
+    "bank":"招商银行",
+    "cardType":"储蓄卡",
+    "tailNum":"0049"
+  },{
+    "bank":"农业银行",
+    "cardType":"储蓄卡",
+    "tailNum":"0012"
+  },{
+    "bank":"农业银行",
+    "cardType":"储蓄卡",
+    "tailNum":"0013"
+  },{
+    "bank":"农业银行",
+    "cardType":"储蓄卡",
+    "tailNum":"0014"
+  }]
+}

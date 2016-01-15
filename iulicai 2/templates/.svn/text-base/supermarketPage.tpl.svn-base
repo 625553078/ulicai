@@ -1,0 +1,23 @@
+
+
+		<div id="supe-wrap">
+        	<img id="recImg" src="./release/imgs/supe.png" width="100%">
+
+			{{#new}}
+        	<div class="new">
+        		<span class="title">理财体验</span><a class="supe-btn">{{type}}</a>
+        		<ul>
+        			<li>
+        				<p>你投1元</p>
+                        <p>XX送你10000元虚拟体验金<p>
+                        <p>尽享万元理财本金收益</p>
+                    </li>
+                    <li data="{{deadline}}天">{{income}}</li>
+        		</ul>
+        	</div>
+			{{/new}}
+
+
+        </div>
+
+

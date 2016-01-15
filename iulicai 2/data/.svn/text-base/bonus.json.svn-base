@@ -1,0 +1,33 @@
+{
+  "valid":[{
+        "bonusTitle":"注册红包",
+        "worth":"10.00",
+        "sum":"1000",
+        "minDays":"30",
+        "beginTime":"2015年9月1号",
+        "endTime":"2015年9月15号"
+        },{
+          "bonusTitle":"好友红包",
+          "worth":"20.00",
+          "sum":"1000",
+          "minDays":"30",
+          "beginTime":"2015年9月1号",
+          "endTime":"2015年9月15号"
+        }],
+  "invalid":[{
+        "bonusTitle":"好友红包",
+        "worth":"10.00",
+        "sum":"1000",
+        "minDays":"30",
+        "beginTime":"2015年8月1号",
+        "endTime":"2015年8月15号"
+        },{
+        "bonusTitle":"好友红包",
+        "worth":"10.00",
+        "sum":"1000",
+        "minDays":"30",
+        "beginTime":"2015年8月1号",
+        "endTime":"2015年8月15号"
+      }]
+
+}

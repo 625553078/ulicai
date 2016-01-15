@@ -1,0 +1,12 @@
+   {{#ordProdDtoList}}
+    <div class="record">
+        <p>{{productName}}</p>
+        <ul>
+            <li>投标金额 <span>{{money}}</span></li>
+            <li>付款方式 <span>{{bankName}}(尾号{{number}})</span></li>
+            <li>订单流水号 <span>{{bizOrderId}}</span></li>
+            <li>购买时间 <span>{{effectiveDate}}</span></li>
+            <li>订单状态 <span>{{payStatus}}</span></li>
+        </ul>
+    </div>
+   {{/ordProdDtoList}}

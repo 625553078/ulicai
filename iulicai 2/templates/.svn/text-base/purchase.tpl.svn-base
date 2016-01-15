@@ -1,0 +1,38 @@
+<div id="purchase">
+<div class="purchase-wrap">
+    <ul class="proInfoWrap">
+        <li>标的名称 <span>{{proTitle}}</span></li>
+        <li>年化收益 <span>{{effects}}%</span></li>
+        <li>理财期限 <span>{{expect}}天</span></li>
+        <li>投资金额 <span id="purchaseAmount" data="预计收益{{revenue}}元">{{purchaseAmount}}元</span></li>
+    </ul>
+
+    {{#uInfoArr}}
+    <ul class="realAuthwrap">
+        <li>姓&nbsp;&nbsp;&nbsp;&nbsp;名<input type="text" value="{{name}}" id="username" placeholder="请输入姓名"></li>
+        <li>身份证<input type="text" id="uid" value="{{uid}}" placeholder="请输入身份证"></li>
+    </ul>
+    {{/uInfoArr}}
+
+    {{#payArr}}
+    <ul class="pay">
+        <li class="getBank">付款方式<span class="sltBank">请选择付款方式</span></li>
+    </ul>
+    {{/payArr}}
+
+    {{#payInfoArr}}
+     <ul class="payInfo" >
+        <li>付款方式<span class="blankName" data-bt="{{bt}}" data-tn="{{tn}}" data-pcode="{{pcode}}">{{bt}}</span></li>
+        <li>银行卡号<input type="number" id="bId" placeholder="请输入银行卡号" value="{{tn}}" data-p="{{p}}"></li>
+        <!--li id="bankLimit"  data-s="{{s}}" data-d="{{d}}" data-m="{{m}}">限额：单笔{{s}}万元，单日{{d}}万元，单月{{m}}万元</li-->
+     </ul>
+     {{/payInfoArr}}
+
+    <ul class="bonus">
+        <li class="getBonus">红&nbsp;&nbsp;&nbsp;&nbsp;包 <span class="sltBonus" data-cId="{{cId}}" data-ct="{{ct}}" data-cw="{{cw}}">{{ct}}{{cw}}元</span></li>
+    </ul>
+    </div>
+    <p><input type="checkbox" id="check-agree"  checked/><label for="check-agree">我已阅读并同意《XX用户服务协议》</label></p>
+    <input type="submit" class="doPurchase" value="提交">
+
+</div>

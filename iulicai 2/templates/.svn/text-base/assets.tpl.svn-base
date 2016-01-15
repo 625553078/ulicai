@@ -1,0 +1,36 @@
+<div id="myAccount">
+    <section class="accoutWrap">
+        <div class="assets">
+            <span class="i_cash">昨日收益（元）</span>
+            <div id="myA-income">{{totalDailyEarn}}</div>
+        </div>
+
+        <ul>
+            <li>总资产（元）<span id="">{{totalAssert}}</span></li>
+            <li class="allIncom">累计收益（元）<span id="allIncom">{{effOrdTotalEarn}}</span></li>
+        </ul>
+    </section>
+
+    <section class="account-nav">
+        <ul>
+            <li class="invest iconfont">&#xe622;
+                <span class="menu">资产明细</span>
+                <span class="iconfont right">&#xf02af;</span>
+            </li>
+            <li class="trade iconfont">&#xe63e;
+                <span class="menu">交易记录</span>
+                <span class="iconfont right">&#xf02af;</span>
+            </li>
+            <li class="bonus iconfont">&#xe6bd;
+                <span class="menu">我的红包</span>
+                <span class="iconfont right">&#xf02af;</span>
+            </li>
+            <li class="card iconfont">&#xe628;
+                <span class="menu">银行卡管理</span>
+                <span class="iconfont right">&#xf02af;</span>
+            </li>
+        </ul>
+    </section>
+
+     <div class="userCtrl"><span class="logout">退出登录</span><span class="modPass">修改密码</span></div>
+</div>
